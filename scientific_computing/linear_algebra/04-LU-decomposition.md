@@ -257,7 +257,7 @@ It is often very benificial when solving linear systems to consider and take adv
 of any special structure that the matrix $A$ might possesses. The $LDL$ decomposition is
 a varient on LU decomposition which is only applicable to a symmetric matrix $A$ (i.e.
 $A = A^T$). The advantage of using this decomposition is that it takes advantage of the
-redundent entries in the matrix to reduce the amount of computation to $n^3/3$, which is
+redundant entries in the matrix to reduce the amount of computation to $n^3/3$, which is
 about a half that required for the $LU$ decomposition.
 
 ## Other Reading
